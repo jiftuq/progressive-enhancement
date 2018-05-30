@@ -1,0 +1,19 @@
+#sec {
+    width: 75px;
+    height: 75px;
+   
+    border: 1px dashed red;
+    left: 10px;
+    top: 10px;
+    
+}
+#principale {
+    width: 600px;
+    height: 600px;
+    background-image: url("css_animation_exercise_4.png") ;
+    display: inline;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
